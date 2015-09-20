@@ -1,0 +1,21 @@
+{
+  "name": "rlcons.com",
+  "version": "0.0.0",
+  "homepage": "http://rlcons.com",
+  "authors": [
+    "Erfang Chen <erfangc@gmail.com>"
+  ],
+  "main": "index.html",
+  "keywords": [
+    "website"
+  ],
+  "license": "Private",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
